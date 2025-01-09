@@ -33,7 +33,7 @@ ol {
   gap: 10px;
 }
 
-#profilepic {
+.profilepic {
   display: block;
   margin-bottom: 10px;
   width: 200px;
